@@ -1,0 +1,11 @@
+*.idea
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.idea
+.git
+.ipynb
+/.vscode
+.vscode
+.__pycache__
+/__pycache__
+__pycache__
